@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+img{
+    width: 100%;
+    height: 100%;
+    
+}
+.sectionOne{
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+}
+.firstDiv{
+    width: 50%;
+    padding: 1rem;
+    margin-top: 150px;
+}
+.secondDiv{
+    width: 50%;
+    padding: 2rem;
+    margin-top: 150px;
+   
+}
+button{
+    background-color: green;
+}
+.container{
+    padding: 2rem;
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    
+}
+h1{
+    text-align: center;
+}
