@@ -1,7 +1,10 @@
 const image = (img) => {
 
     let div = document.createElement("div")
-    div.innerHTML = `<img src="./image/${img}">`
+    div.innerHTML = `<div class="pic">
+                    <img src="./image/${img}">
+                     </div>
+    `
 
     return div
 }

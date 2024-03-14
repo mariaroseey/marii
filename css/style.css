@@ -3,16 +3,38 @@
     padding: 0;
     box-sizing: border-box;
 }
+body{
+    background-color: #E1AFD1;
+}
 img{
     width: 100%;
     height: 100%;
     
 }
+.info{
+    margin: auto;
+}
+.sectionOne img{
+    margin: auto;
+}
+p{
+    text-align: justify;
+}
+.pic{
+    height: 100%;
+    width: 100%;
+    border-radius: 50%;
+}
 .sectionOne{
     max-width: 1200px;
     margin: 0 auto;
     display: flex;
+    border-radius: 20%;
+    text-align: justify;
+
+    
 }
+
 .firstDiv{
     width: 50%;
     padding: 1rem;
@@ -32,7 +54,12 @@ button{
     max-width: 1200px;
     margin: 0 auto;
     display: flex;
+    height: 500px;
     
+    
+}
+.pic1{
+    border: solid 20px;
 }
 h1{
     text-align: center;

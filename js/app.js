@@ -6,7 +6,7 @@ const myObj1 = {
     title : "My portfolio",
     para : "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Atque quia fugit vero ex quae. Repellendus itaque facere ipsa. Eaque culpa maxime blanditiis voluptatum nam odio perspiciatis porro eligendi eos ab?",
     btn : "About me",
-    myimg : "lotus.jpg"
+    myimg : "mari.jpg"
 }
 
 const myObj2 = {
